@@ -1,0 +1,3 @@
+O padrão utilizado foi o decorator, uma vez que o mesmo eé ideal para a composição/incremento em classes, a fim de ter maior
+flexibilidade de código (utilizando conceitos SOLID), aumentando a possibilidade de ter classes que atuam de forma dinâmica e
+evitando a explosão de subclasses que as heranças poderiam gerar.
